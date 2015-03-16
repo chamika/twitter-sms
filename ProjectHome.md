@@ -1,0 +1,1 @@
+Android application to filter Twitter SMS notification from built-in messaging application and show notification messages seperately
